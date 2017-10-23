@@ -159,7 +159,7 @@ MonoBehaviour:
   m_MinSize: {x: 817, y: 492}
   m_MaxSize: {x: 22012, y: 14042}
   vertical: 0
-  controlID: 100
+  controlID: 165
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -448,9 +448,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 442.7295, y: 449.89175, z: 0}
+    m_Target: {x: 9.867466, y: 576.58624, z: 0}
     speed: 2
-    m_Value: {x: 442.7295, y: 449.89175, z: 0}
+    m_Value: {x: 9.867466, y: 576.58624, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -477,9 +477,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1356.9092
+    m_Target: 1767.0487
     speed: 2
-    m_Value: 1356.9092
+    m_Value: 1767.0487
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -642,9 +642,9 @@ MonoBehaviour:
     height: 512
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 18fcffff00000000
+    m_SelectedIDs: 68510000
+    m_LastClickedID: 20840
+    m_ExpandedIDs: 18b7ffffbeb7ffffbab8ffff18fcffff000000001e2700004c2900005c2c0000ec2e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -705,18 +705,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Textures
+    - Assets/Scripts/Controller
   m_ViewMode: 1
   m_StartGridSize: 69
   m_LastFolders:
-  - Assets/Textures
+  - Assets/Scripts/Controller
   m_LastFoldersGridSize: 69
   m_LastProjectPath: D:\Andres\Proyectos\TechSolveApp\Unity\TechSolveApp
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae260000
-    m_LastClickedID: 9902
+    m_SelectedIDs: ce260000
+    m_LastClickedID: 9934
     m_ExpandedIDs: 00000000802600009a260000d0260000e026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -772,7 +772,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 642300003c820000743400005a230000ae41000034830100724e0000e48802004c000500be8902003601050012750a00bce2dbffc46b0000385100007813eeff146bfeff9479000034380000e2360000007b00007e670000dad0f9ff1a5000005487000070850000a485000040520000824c0000546b00008450000006e41100a6350000f655dfff1836000042360000223600008c2300004e530000be870000d8340500ec3809004e2c00007e290000882900009029000052280000622b0000d8a90100d4a901005c26000074260000882600007a260000882700008426000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -797,7 +797,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 120}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 69
   m_DirectoriesAreaWidth: 233
 --- !u!114 &23

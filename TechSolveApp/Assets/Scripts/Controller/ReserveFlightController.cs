@@ -85,6 +85,7 @@ public class ReserveFlightController : MonoBehaviour {
             if (int.Parse(view.age.text) < 18)
             {
                 Popups.popupManager.ShowPopup(false, Errors.AGE_LESS);
+                return false;
             }
         }
         if (string.IsNullOrEmpty(view.creditCard.text))

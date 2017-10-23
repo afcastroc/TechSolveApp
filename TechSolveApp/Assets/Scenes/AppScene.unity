@@ -11373,7 +11373,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Search For Reservation
+  m_Text: Search Of Reservations
 --- !u!222 &887942797
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21459,7 +21459,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Consult Flights
+  m_Text: Consult - Reserve Flights
 --- !u!222 &1775782491
 CanvasRenderer:
   m_ObjectHideFlags: 0
